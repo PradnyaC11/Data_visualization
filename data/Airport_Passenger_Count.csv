@@ -1,0 +1,679 @@
+city_name,departure_count,arrival_count,Latitude,Longitude
+"Aberdeen, South Dakota",22112,22280,45.4649,-98.4686
+"Abilene, Texas",79928,79102,32.4543,-99.7384
+"Adak Island, Alaska",2149,2171,51.87268147,-176.6493591
+"Akhiok, Alaska",651,652,56.94079803,-154.1757678
+"Akiachak, Alaska",3044,2684,60.9054549,-161.4244387
+"Akiak, Alaska",2380,2125,60.902,-161.2316
+"Akron, Ohio",343497,343716,41.0798,-81.5219
+"Akun, Alaska",2236,2292,54.1325,-165.7854
+"Akutan, Alaska",1209,1307,54.13787805,-165.7785355
+"Alakanuk, Alaska",2512,2528,62.68579958,-164.7220982
+"Alamosa, Colorado",11319,10636,37.4752,-105.877
+"Albany, Georgia",29981,31523,31.5776,-84.1762
+"Albany, New York",1376306,1370768,42.6664,-73.7987
+"Albuquerque, New Mexico",2604961,2591629,35.1054,-106.6465
+"Alexandria, Louisiana",116054,157740,31.2923,-92.4702
+"Allakaket, Alaska",1481,1565,66.55084267,-152.6318689
+"Allentown/Bethlehem/Easton, Pennsylvania",419372,421069,40.5961,-75.4756
+"Alliance, Nebraska",4328,4167,42.06221306,-102.8071069
+"Alpena, Michigan",8034,7019,45.074,-83.4402
+"Altoona, Pennsylvania",3206,3478,40.5082,-78.4007
+"Amarillo, Texas",397691,393662,35.1984,-101.8316
+"Ambler, Alaska",1847,1868,67.1064,-157.8522
+"Anaktuvuk Pass, Alaska",3000,3146,68.1336,-151.7424
+"Anchorage, Alaska",2624300,2605974,61.1508,-149.1091
+"Angoon, Alaska",2256,2052,57.49670324,-134.5707673
+"Aniak, Alaska",4636,4638,61.58099389,-159.5436808
+"Ankeny, Iowa",311,358,41.7288,-93.6031
+"Anvik, Alaska",355,370,62.65947977,-160.2087005
+"Appleton, Wisconsin",474881,472909,44.278,-88.3892
+"Arcata/Eureka, California",117970,115799,40.8615,-124.0758
+"Arctic Village, Alaska",1750,1892,68.1147,-145.5796
+"Asheville, North Carolina",1125467,1120049,35.5707,-82.5537
+"Ashland, West Virginia",88798,88330,42.18854906,-122.6565532
+"Aspen, Colorado",308737,311482,39.2232,-106.868
+"Athens, Georgia",1913,1520,33.9508,-83.3689
+"Atka, Alaska",318,335,52.22404686,-174.2087232
+"Atlanta, Georgia",44268808,44398703,33.7628,-84.422
+"Atlantic City, New Jersey",435903,435661,39.3797,-74.4527
+"Atmautluak, Alaska",2403,2177,60.8656705,-162.2725485
+"Atqasuk, Alaska",1833,1831,70.46741337,-157.4317317
+"Augusta, Georgia",280318,276002,33.3645,-82.0708
+"Augusta/Waterville, Maine",5327,5270,44.3341,-69.7319
+"Austin, Texas",10334266,10313494,30.3005,-97.7522
+"Bakersfield, California",174865,174955,35.3529,-119.0359
+"Baltimore, Maryland",11951898,11952138,39.3051,-76.6144
+"Bangor, Maine",347337,344593,44.8323,-68.7906
+"Bar Harbor, Maine",9898,9796,44.4452825,-68.36164351
+"Barrow, Alaska",41579,41566,71.2854,-156.766
+"Barter Island, Alaska",1864,1858,70.1342,-143.6103
+"Baton Rouge, Louisiana",377313,378096,30.442,-91.1311
+"Beaumont/Port Arthur, Texas",32143,31310,30.0849,-94.1451
+"Beaver, Alaska",912,959,66.36512864,-147.4014275
+"Beckley, West Virginia",4880,4486,37.7877,-81.1841
+"Bedford, Massachusetts",11195,10960,42.4969,-71.2783
+"Belleville, Illinois",147334,145395,38.5164,-89.99
+"Bellingham, Washington",311029,311009,48.7548,-122.469
+"Belmar/Farmingdale, New Jersey",149,172,40.186,-74.1249
+"Beluga, Alaska",1122,1178,61.17323666,-151.0422854
+"Bemidji, Minnesota",24762,24141,47.4828,-94.8797
+"Bend/Redmond, Oregon",558451,556723,44.0563,-121.3095
+"Bethel, Alaska",153567,156879,60.7798,-161.837
+"Bettles, Alaska",1571,1743,66.9173,-151.529
+"Billings, Montana",428755,428591,45.7891,-108.5526
+"Binghamton, New York",36622,35792,42.1014,-75.9093
+"Birch Creek, Alaska",284,304,66.2567,-145.8141
+"Birmingham, Alabama",1498182,1499949,33.5279,-86.7971
+"Bishop, California",9981,10436,42.96378873,-83.74639039
+"Bismarck/Mandan, North Dakota",258339,257421,46.8143,-100.7694
+"Block Island, Rhode Island",15013,12426,41.1681,-71.5773
+"Bloomington, Indiana",2587,2467,39.1637,-86.5257
+"Bloomington/Normal, Illinois",164662,163755,40.4757,-88.9703
+"Boca Raton, Florida",504,687,26.3752,-80.108
+"Boise, Idaho",2368511,2364476,43.6005,-116.2308
+"Boston, Massachusetts",15825078,15908001,42.3188,-71.0852
+"Boulder City, Nevada",29261,26883,35.8407,-114.9257
+"Bowling Green, Kentucky",1017,942,36.9716,-86.4378
+"Bozeman, Montana",1229881,1229551,45.6833,-111.0558
+"Bradford, Pennsylvania",3894,3684,41.79953642,-78.63960272
+"Brainerd, Minnesota",16218,15558,46.3553,-94.1983
+"Branson, Missouri",2588,2561,36.6509,-93.2636
+"Brevig Mission, Alaska",2351,2276,65.3315,-166.4906
+"Bristol/Johnson City/Kingsport, Tennessee",220879,218244,36.5572,-82.2154
+"Brooks Lodge, Alaska",5283,5627,58.55,-155.8
+"Broomfield, Colorado",36968,36370,39.9542,-105.0526
+"Brownsville, Texas",176047,130140,25.9975,-97.458
+"Brunswick, Georgia",33885,34400,31.1449,-81.4746
+"Buckland, Alaska",3618,3597,65.9816,-161.1485
+"Buffalo, New York",2288151,2290495,42.9018,-78.8487
+"Bullhead City, Arizona",70241,71307,35.1205,-114.5461
+"Burbank, California",3131724,3156376,34.1879,-118.3235
+"Burlington, Iowa",4061,3584,40.8071,-91.1247
+"Burlington, Vermont",649014,646063,44.4876,-73.2316
+"Butte, Montana",15882,16736,45.902,-112.6571
+"Cape Girardeau, Missouri",7555,7438,37.3109,-89.5597
+"Cape Lisburne, Alaska",103,109,68.8751,-166.11
+"Carbondale, Illinois",279,281,37.7221,-89.2237
+"Carlsbad, California",4042,3728,33.1246,-117.2834
+"Carlsbad, New Mexico",5025,4601,32.401,-104.2388
+"Casper, Wyoming",87124,85957,42.842,-106.3208
+"Cedar City, Utah",11746,11764,37.6834,-113.0956
+"Cedar Rapids/Iowa City, Iowa",690801,689613,41.9662,-91.6783
+"Chadron, Nebraska",2424,2295,42.8290769,-103.0968863
+"Chalkyitsik, Alaska",622,648,66.645,-143.7256
+"Champaign/Urbana, Illinois",70178,68734,40.1142,-88.2737
+"Charleston, South Carolina",3031242,3025986,32.8168,-79.9687
+"Charleston/Dunbar, West Virginia",194831,192167,38.3484,-81.6322
+"Charlotte, North Carolina",23593383,23663184,35.2083,-80.8303
+"Charlottesville, Virginia",308075,307249,38.0375,-78.4855
+"Chattanooga, Tennessee",487862,480540,35.066,-85.2481
+"Chefornak, Alaska",2916,2909,60.13824329,-164.2792005
+"Chenega, Alaska",521,527,60.07883456,-147.9945494
+"Cherry Point, North Carolina",567,1239,34.91575611,-76.89962046
+"Chevak, Alaska",4719,4754,61.5380538,-165.6045523
+"Cheyenne, Wyoming",13000,12982,41.135,-104.7902
+"Chicago, Illinois",39398585,39539152,41.8375,-87.6866
+"Chicopee Falls, Massachusetts",432,343,42.162,-72.6162
+"Chignik, Alaska",208,210,56.3114,-158.3738
+"Chuathbaluk, Alaska",184,211,61.580336,-159.2247778
+"Cincinnati, Ohio",4182903,4191772,39.1413,-84.506
+"Circle, Alaska",247,231,65.84214806,-144.0816648
+"Clarks Point, Alaska",402,482,58.83664702,-158.5277152
+"Clarksburg/Fairmont, West Virginia",42722,42581,39.2862,-80.3232
+"Cleveland, Ohio",4684706,4680174,41.4764,-81.6805
+"Clovis, New Mexico",13623,13265,34.4376,-103.1923
+"Cody, Wyoming",34709,36543,44.5213,-109.0548
+"Cold Bay, Alaska",2995,3023,55.20772652,-162.7224913
+"Coldfoot, Alaska",5634,6569,67.2523,-150.2067
+"College Station/Bryan, Texas",60068,57996,30.5852,-96.2959
+"Colorado Springs, Colorado",1184723,1169475,38.8674,-104.7605
+"Columbia, Missouri",97622,97549,38.9472,-92.3268
+"Columbia, South Carolina",591967,606163,34.0378,-80.9036
+"Columbus, Georgia",65679,59413,32.51,-84.8771
+"Columbus, Mississippi",42503,41916,33.5088,-88.4096
+"Columbus, Ohio",4207521,4233804,39.9862,-82.9855
+"Concord, California",16997,17246,37.9722,-122.0016
+"Concord, North Carolina",118989,116904,35.3933,-80.6369
+"Cordova, Alaska",18260,17989,60.543784,-145.7259942
+"Corpus Christi, Texas",352099,345533,27.7254,-97.3767
+"Cortez, Colorado",8925,8586,37.3503,-108.5768
+"Crescent City, California",7875,7465,41.77476844,-124.237113
+"Crooked Creek, Alaska",221,218,61.86789745,-158.1343685
+"Dahl Creek, Alaska",182,229,66.94315172,-156.8989944
+"Dallas/Fort Worth, Texas",42273175,42344234,32.7935,-96.7667
+"Danger Bay, Alaska",388,382,57.79416248,-152.3936869
+"Dayton, Ohio",594019,598379,39.7805,-84.2003
+"Daytona Beach, Florida",348034,343758,29.1995,-81.0982
+"Deadhorse, Alaska",82350,83296,70.1948,-148.4647
+"Decatur, Illinois",11207,10905,39.8557,-88.9342
+"Deer Harbor, Washington",789,846,48.68464948,-123.0701301
+"Deering, Alaska",1322,1334,66.06930665,-162.7663598
+"Del Rio, Texas",5320,4992,29.3708,-100.8801
+"Delta Junction, Alaska",113,102,42.82910844,-103.0968862
+"Denver, Colorado",35878402,35914103,39.762,-104.8758
+"Des Moines, Iowa",1518557,1524368,41.5725,-93.6105
+"Destin, Florida",5141,5256,30.395,-86.4701
+"Detroit, Michigan",13811358,13841537,42.3834,-83.1024
+"Devils Lake, North Dakota",8051,7885,48.109202,-98.90401445
+"Dickinson, North Dakota",24057,24913,46.8918,-102.7925
+"Dillingham, Alaska",34495,34518,59.0454,-158.5055
+"Diomede Island, Alaska",166,208,65.6318501,-168.0923761
+"Dodge City, Kansas",6432,6303,37.7611,-100.0182
+"Dothan, Alabama",35626,35254,31.2336,-85.407
+"DuBois, Pennsylvania",5567,5054,41.1783,-78.8987
+"Dubuque, Iowa",16469,16489,42.5002,-90.707
+"Duluth, Minnesota",127822,123976,46.7756,-92.1393
+"Durango, Colorado",217344,216034,37.2659,-107.8781
+"Eagle, Alaska",579,595,39.64248377,-106.9169133
+"Eagle, Colorado",226791,227299,39.64250855,-106.9169347
+"East Farmingdale, New York",2143,2054,40.7287,-73.4134
+"East Hampton, New York",1952,2427,41.0117,-72.1277
+"Eastsound, Washington",7827,7489,48.7081,-122.9107
+"Eau Claire, Wisconsin",25856,24938,44.8197,-91.4948
+"Eek, Alaska",2812,2654,60.21515233,-162.0444342
+"Egegik, Alaska",778,801,58.18466593,-157.3719985
+"Ekwok, Alaska",523,540,59.3536056,-157.4764774
+"El Centro, California",7094,5096,32.7865,-115.5595
+"El Dorado, Arkansas",3144,3060,33.2184,-92.664
+"El Paso, Texas",1997799,1850916,31.8476,-106.43
+"Elfin Cove, Alaska",412,341,58.1944,-136.3436
+"Elim, Alaska",2008,2059,64.6162664,-162.2694889
+"Elko, Nevada",10715,10300,40.8381,-115.7678
+"Elmira/Corning, New York",85017,84736,42.0938,-76.8097
+"Emmonak, Alaska",9804,9837,62.78061222,-164.4899217
+"Erie, Pennsylvania",47160,46532,42.1167,-80.0733
+"Escanaba, Michigan",15657,14333,45.7477,-87.09
+"Eugene, Oregon",841916,843188,44.0564,-123.1174
+"Evansville, Indiana",165183,166142,37.9881,-87.5341
+"Everett, Washington",306301,297274,47.9525,-122.1669
+"Fairbanks, Alaska",546639,547452,64.8353,-147.6533
+"Fargo, North Dakota",520532,520397,46.8651,-96.8292
+"Fayetteville, Arkansas",973894,974212,36.0714,-94.1661
+"Fayetteville, North Carolina",168553,163573,35.085,-78.9772
+"Fishers Island, New York",172,186,41.2637,-72.0307
+"Flagstaff, Arizona",73953,73182,35.1872,-111.6194
+"Flint, Michigan",281878,281338,43.0236,-83.6921
+"Florence, South Carolina",22728,20927,34.178,-79.7898
+"Fort Collins/Loveland, Colorado",3098,3394,40.5477,-105.0656
+"Fort Dodge, Iowa",6195,6145,42.5098,-94.1751
+"Fort Drum, New York",257,449,44.045,-75.7845
+"Fort Jefferson, Florida",20408,20470,24.71106983,-82.86222087
+"Fort Lauderdale, Florida",12851378,12829668,26.1412,-80.1464
+"Fort Leonard Wood, Missouri",11702,11494,37.7562,-92.1274
+"Fort Myers, Florida",4806771,4792912,26.6194,-81.8302
+"Fort Smith, Arkansas",58303,56637,35.3495,-94.3695
+"Fort Wayne, Indiana",392834,392383,41.0888,-85.1436
+"Fort Yukon, Alaska",5506,5632,66.5715,-145.25
+"Fresno, California",1039243,1041699,36.783,-119.7939
+"Friday Harbor, Washington",15478,15255,48.52496818,-123.0263351
+"Gainesville, Florida",273194,267948,29.6804,-82.3459
+"Galbraith Lake, Alaska",688,675,68.4794,-149.4904
+"Galena, Alaska",11773,12068,64.73603615,-156.938013
+"Gallup, New Mexico",2179,1965,35.5182,-108.7431
+"Gambell, Alaska",3142,3101,63.7668,-171.7339
+"Garden City, Kansas",27848,28340,37.9753,-100.8527
+"Gary, Indiana",3847,2408,41.5905,-87.3473
+"Gerlach, Nevada",124,457,40.65159638,-119.355331
+"Gillette, Wyoming",26776,26714,44.2752,-105.4982
+"Glasgow, Montana",2884,2730,48.212,-106.6144
+"Glendive, Montana",2177,2036,47.1387,-104.8069
+"Golovin, Alaska",1505,1467,64.543,-163.0297
+"Goodnews Bay, Alaska",912,894,59.1274,-161.5772
+"Grand Canyon, Arizona",27062,25519,35.96034393,-112.1350942
+"Grand Forks, North Dakota",93735,92699,47.9214,-97.0884
+"Grand Island, Nebraska",65091,66527,40.9218,-98.3586
+"Grand Junction, Colorado",243717,239139,39.0877,-108.5673
+"Grand Rapids, Michigan",1899233,1881195,42.9619,-85.6562
+"Grayling, Alaska",358,372,62.89740624,-160.0659518
+"Great Falls, Montana",177263,177970,47.5022,-111.2996
+"Green Bay, Wisconsin",330298,327945,44.5148,-87.9895
+"Greensboro/High Point, North Carolina",903476,899004,36.0956,-79.8271
+"Greenville, Mississippi",7516,7018,33.385,-91.0514
+"Greenville, North Carolina",34628,35782,35.5943,-77.376
+"Greer, South Carolina",1258495,1242143,34.933,-82.2313
+"Gulfport/Biloxi, Mississippi",375577,371484,30.4274,-89.0704
+"Gulkana, Alaska",303,362,62.1549,-145.457
+"Gunnison, Colorado",49490,49036,38.54555111,-106.9256774
+"Gustavus, Alaska",9580,9096,58.4253,-135.707
+"Hagerstown, Maryland",32320,32520,39.6401,-77.7217
+"Haines, Alaska",6306,6494,59.2438,-135.5244
+"Hana, Hawaii",2085,2272,20.7956,-156.0144
+"Hancock/Houghton, Michigan",23353,23424,47.16872615,-88.494192
+"Harlingen/San Benito, Texas",493219,439572,26.1916,-97.6977
+"Harrisburg, Pennsylvania",654186,648569,40.2752,-76.8843
+"Harrison, Arkansas",4556,4415,36.2438,-93.1198
+"Hartford, Connecticut",2909705,2907091,41.7661,-72.6834
+"Hattiesburg/Laurel, Mississippi",12351,11777,31.3074,-89.317
+"Havre, Montana",2964,2820,48.5427,-109.6804
+"Hawthorne, California",4955,4863,33.9147,-118.3476
+"Hayden, Colorado",206195,204037,40.4812,-107.2187
+"Hays, Kansas",9488,8513,38.8821,-99.3221
+"Healy, Alaska",1656,1648,63.86734091,-148.968893
+"Helena, Montana",88308,87892,46.5965,-112.0202
+"Hibbing, Minnesota",11775,11655,47.398,-92.9486
+"Hickory, North Carolina",898,619,35.741,-81.3223
+"Hilo, Hawaii",684175,689506,19.6883,-155.0863
+"Hilton Head, South Carolina",103686,105888,32.2250291,-80.69720772
+"Hobbs, New Mexico",22187,22092,32.7281,-103.16
+"Holy Cross, Alaska",364,404,62.19263011,-159.7719651
+"Homer, Alaska",34688,30893,59.6456,-151.4764
+"Honolulu, Hawaii",8554812,8514095,21.3294,-157.846
+"Hoolehua, Hawaii",85341,84736,21.16717923,-157.0676865
+"Hoonah, Alaska",5790,6034,58.0960046,-135.4106334
+"Hooper Bay, Alaska",4323,4382,61.52125786,-166.1429722
+"Hopkinsville, Kentucky",221,508,36.8381,-87.4775
+"Hot Springs, Arkansas",3721,3710,34.4892,-93.0501
+"Houston, Texas",22757307,22769832,29.786,-95.3885
+"Hughes, Alaska",1050,1095,66.0411,-154.263
+"Huntsville, Alabama",723751,722002,34.6981,-86.6412
+"Huslia, Alaska",3304,3370,65.69476073,-156.3607512
+"Hyannis, Massachusetts",17166,17976,41.6693,-70.2803
+"Idaho Falls, Idaho",270131,267643,43.4871,-112.0362
+"Igiugig, Alaska",244,235,59.324,-155.8948
+"Iliamna, Alaska",3954,3684,59.7544,-154.9108
+"Indianapolis, Indiana",4744197,4766192,39.7771,-86.1458
+"International Falls, Minnesota",13238,12991,48.56888814,-93.39903822
+"Iron Mountain/Kingsfd, Michigan",17955,18492,45.81514658,-88.11863428
+"Ironwood, Michigan",7042,6651,46.52525716,-90.13476944
+"Islip, New York",640858,639518,40.7385,-73.1888
+"Ithaca/Cortland, New York",60775,59142,42.4442,-76.5032
+"Jackson, Tennessee",3245,3070,35.6538,-88.8354
+"Jackson, Wyoming",494652,492677,43.472,-110.7746
+"Jackson/Vicksburg, Mississippi",627274,624607,32.3157,-90.2125
+"Jacksonville, Florida",3584060,3581758,30.3322,-81.6749
+"Jacksonville/Camp Lejeune, North Carolina",133035,135278,34.7289,-77.3941
+"Jamestown, North Dakota",10463,10787,46.9063,-98.6937
+"Johnstown, Pennsylvania",14250,13738,40.326,-78.9194
+"Jonesboro, Arkansas",2188,2029,35.8212,-90.6791
+"Joplin, Missouri",14270,13028,37.0757,-94.5018
+"Juneau, Alaska",356438,360310,58.4546,-134.1739
+"Kahului, Hawaii",3592010,3581642,20.8715,-156.4603
+"Kake, Alaska",3605,3688,56.9643305,-133.9165699
+"Kalamazoo, Michigan",87611,84328,42.2749,-85.5882
+"Kalaupapa, Hawaii",3085,5270,21.20977363,-156.9748506
+"Kalispell, Montana",456142,447721,48.2153,-114.3274
+"Kalskag, Alaska",1823,1835,61.53746947,-160.3367366
+"Kaltag, Alaska",1584,1609,64.3211577,-158.7362437
+"Kamuela, Hawaii",3598,3568,19.99895197,-155.6737171
+"Kansas City, Missouri",5603251,5618653,39.1238,-94.5541
+"Kapalua, Hawaii",3683,3484,20.9629,-156.673
+"Karluk, Alaska",293,252,57.56577633,-154.4515605
+"Kasigluk, Alaska",3391,3032,60.8733,-162.524
+"Katmai Lodge, Alaska",226,245,58.015,-157.5808
+"Kearney, Nebraska",14684,14644,40.7011,-99.0833
+"Kenai, Alaska",66949,63913,60.56664279,-151.245358
+"Kenmore, Washington",5642,6119,47.7516,-122.2489
+"Ketchikan, Alaska",154201,153789,55.35476499,-131.7122988
+"Key West, Florida",675349,665852,24.5642,-81.7775
+"Kiana, Alaska",2759,2681,66.9759,-160.436
+"Killeen, Texas",93618,90926,31.0753,-97.7297
+"King Cove, Alaska",568,628,55.1172,-162.2664
+"King Salmon, Alaska",37940,37092,58.6768,-156.6492
+"Kipnuk, Alaska",4470,4414,59.93580382,-164.0276662
+"Kirksville, Missouri",4281,3898,40.1986,-92.5752
+"Kivalina, Alaska",3003,3049,67.731,-164.5508
+"Klawock, Alaska",16733,17338,55.58201189,-133.0740814
+"Knoxville, Tennessee",1382073,1380133,35.9692,-83.9496
+"Kobuk, Alaska",965,951,66.9126595,-156.8841032
+"Kodiak Island, Alaska",1356,1502,57.80720097,-152.3737055
+"Kodiak, Alaska",85183,85039,57.7559302,-152.5148742
+"Kokhanok, Alaska",1631,1711,59.4328,-154.8083
+"Koliganek, Alaska",908,920,59.73233267,-157.2657572
+"Kona, Hawaii",2055155,2049746,19.73714825,-156.0428602
+"Kongiganak, Alaska",2736,2729,59.961285,-162.881134
+"Kotlik, Alaska",2584,2542,63.0306,-163.5533
+"Kotzebue, Alaska",60124,60531,66.8847,-162.5986
+"Koyuk, Alaska",1547,1643,64.9311,-161.1572
+"Koyukuk, Alaska",792,815,64.87686782,-157.7176465
+"Kulik Lake, Alaska",837,845,58.96583355,-155.1101458
+"Kwethluk, Alaska",2619,2388,60.79367108,-161.4417746
+"Kwigillingok, Alaska",2241,2285,59.87594947,-163.1681233
+"La Crosse, Wisconsin",42635,42346,43.8241,-91.2268
+"Lafayette, Indiana",2231,2422,40.3991,-86.8593
+"Lafayette, Louisiana",229797,227491,30.2082,-92.0325
+"Lake Charles, Louisiana",82838,81981,30.201,-93.2111
+"Lake Minchumina, Alaska",192,199,63.88538498,-152.3028595
+"Lakeland, Florida",202,201,28.0557,-81.9545
+"Lanai, Hawaii",34430,35806,20.79076692,-156.9499025
+"Lancaster, Pennsylvania",6230,6343,40.042,-76.3012
+"Lansing, Michigan",106844,103301,42.7142,-84.5601
+"Laramie, Wyoming",18092,16624,41.3099,-105.6085
+"Laredo, Texas",125962,124738,27.5625,-99.4874
+"Larsen Bay, Alaska",2891,2947,57.53558261,-153.9754674
+"Las Cruces, New Mexico",1577,1989,32.3265,-106.7893
+"Las Vegas, Nevada",26216202,26264085,36.2333,-115.2654
+"Latrobe, Pennsylvania",76843,77444,40.2759,-79.4048
+"Lawton/Fort Sill, Oklahoma",45182,45734,34.6175,-98.4202
+"Lebanon-Hanover, New Hampshire",10683,10068,43.6261,-72.3045
+"Levelock, Alaska",218,215,59.1285,-156.8588
+"Lewisburg, West Virginia",8290,8218,37.85744451,-80.40421684
+"Lewiston, Idaho",36745,38997,46.3934,-116.9933
+"Lexington, Kentucky",665252,664301,38.0423,-84.4587
+"Liberal, Kansas",8267,8207,37.0466,-100.9295
+"Lihue, Hawaii",1799784,1799055,21.9721,-159.3564
+"Lincoln, Nebraska",131682,132411,40.8099,-96.6784
+"Little Rock, Arkansas",1096748,1092009,34.7256,-92.3577
+"Llano, Texas",304,223,30.7849,-98.6607
+"Logan, Utah",1766,1856,41.7399,-111.8422
+"Long Beach, California",1836026,1840458,33.7977,-118.167
+"Longview, Texas",32545,30306,32.5193,-94.7622
+"Lopez Island, Washington",774,775,48.48665907,-122.936169
+"Los Angeles, California",26090135,26062681,34.1141,-118.4068
+"Louisville, Kentucky",2267348,2285058,38.1663,-85.6485
+"Lubbock, Texas",543242,540136,33.5657,-101.8879
+"Lynchburg, Virginia",74712,72510,37.4003,-79.1909
+"Macon, Georgia",15815,15598,32.8065,-83.6974
+"Madison, Wisconsin",1037760,1034975,43.0822,-89.393
+"Mammoth Lakes, California",3861,3883,37.64719,-118.967453
+"Manchester, New Hampshire",644622,642640,42.9848,-71.4447
+"Manhattan/Ft. Riley, Kansas",51277,51757,39.1886,-96.6048
+"Manistee/Ludington, Michigan",6021,5851,44.27974891,-86.25565689
+"Manokotak, Alaska",1465,1417,58.93562993,-158.8963418
+"Marion/Herrin, Illinois",10483,9832,37.7345,-88.942
+"Marquette, Michigan",42651,41231,46.544,-87.4082
+"Marshall, Alaska",2520,2596,61.8649,-162.0265
+"Martha's Vineyard, Massachusetts",82411,82933,41.3933,-70.6143
+"Mason City, Iowa",5780,5869,43.1487,-93.1997
+"Massena, New York",4954,5100,44.9609,-74.8339
+"Mattoon/Charleston, Illinois",235,235,39.4774,-88.3623
+"McCarthy, Alaska",122,116,61.43781463,-142.9027849
+"McCook, Nebraska",2326,2356,40.20969878,-100.5967438
+"McGrath, Alaska",2570,2560,62.9525,-155.6062
+"Medford, Oregon",478027,477317,42.3372,-122.854
+"Mekoryuk, Alaska",1182,1184,60.371,-166.27
+"Melbourne, Florida",249286,246452,28.1086,-80.6627
+"Memphis, Tennessee",2397106,2406539,35.1087,-89.9663
+"Merced, California",3794,3603,37.3057,-120.4779
+"Meridian, Mississippi",15513,16839,32.3846,-88.6896
+"Metlakatla, Alaska",493,542,55.1264,-131.5764
+"Miami, Florida",13444541,13450169,25.784,-80.2101
+"Midland/Odessa, Texas",684271,670559,32.0243,-102.1147
+"Milwaukee, Wisconsin",2930659,2923859,43.0642,-87.9675
+"Minneapolis, Minnesota",15521360,15561074,44.9635,-93.2678
+"Minot, North Dakota",146678,147353,48.2375,-101.278
+"Minto, Alaska",184,213,49.2757428,-97.55975397
+"Mission/McAllen/Edinburg, Texas",511551,442076,26.2039,-98.3256
+"Missoula, Montana",458300,454147,46.8751,-114.0214
+"Moab, Utah",19289,19487,38.76149689,-109.7448835
+"Mobile, Alabama",285767,286500,30.6782,-88.1162
+"Moline, Illinois",272391,267688,41.4821,-90.492
+"Monroe, Louisiana",96953,92377,32.5185,-92.0774
+"Monterey, California",259495,259936,36.5919,-121.8808
+"Montgomery, Alabama",181797,179002,32.3482,-86.2668
+"Montrose/Delta, Colorado",244158,239314,38.4689,-107.859
+"Monument Valley, Utah",444,470,37.0049,-110.2023
+"Morgantown, West Virginia",6825,7067,39.6383,-79.9464
+"Morristown, New Jersey",652,431,40.7967,-74.4772
+"Mosinee, Wisconsin",84769,82631,44.7853,-89.7034
+"Mountain View, California",160,190,37.4001,-122.0796
+"Mountain Village, Alaska",3074,3043,62.09511192,-163.6822364
+"Muscle Shoals, Alabama",5907,5624,34.7432,-87.6343
+"Muskegon, Michigan",4488,4503,43.2281,-86.2562
+"Myrtle Beach, South Carolina",1658946,1650972,33.7094,-78.8844
+"Nantucket, Massachusetts",135520,136165,41.2831,-70.0692
+"Nanwalek, Alaska",2065,2721,59.3521,-151.9208
+"Napa, California",186,137,38.2975,-122.301
+"Napakiak, Alaska",1513,1144,60.7017,-161.9797
+"Napaskiak, Alaska",1117,921,60.70511222,-161.7757498
+"Naples, Florida",197,183,26.1504,-81.7936
+"Nashville, Tennessee",11023556,11066075,36.1715,-86.7842
+"New Bedford/Fall River, Massachusetts",1676,1522,41.6697,-70.9428
+"New Bern/Morehead/Beaufort, North Carolina",59136,61021,35.0955,-77.0723
+"New Haven, Connecticut",488083,486955,41.3113,-72.9246
+"New Orleans, Louisiana",6189791,6190420,30.0687,-89.9288
+"New Stuyahok, Alaska",1763,1731,59.45208529,-157.3736961
+"New York, New York",28833259,29130145,40.6943,-73.9249
+"Newark, New Jersey",16848084,16902008,40.7245,-74.1725
+"Newburgh/Poughkeepsie, New York",77283,77840,41.5531,-74.0599
+"Newport News/Williamsburg, Virginia",69401,69776,37.1051,-76.5185
+"Newport, Rhode Island",428,412,41.4801,-71.3203
+"Newtok, Alaska",1696,1677,60.9391,-164.641
+"Niagara Falls, New York",52596,52303,43.0921,-79.0147
+"Nightmute, Alaska",1225,1241,60.471,-164.7
+"Nikolai, Alaska",1079,1109,63.01763679,-154.362137
+"Nikolski, Alaska",148,150,52.9417,-168.8481
+"Noatak, Alaska",3698,3674,67.56653264,-162.9748721
+"Nome, Alaska",66307,65836,64.51324011,-165.4513302
+"Nondalton, Alaska",492,546,59.98133406,-154.8380816
+"Noorvik, Alaska",3410,3350,66.8281,-161.0144
+"Norfolk, Virginia",2307505,2306098,36.8945,-76.259
+"North Bend/Coos Bay, Oregon",19522,20008,43.4075,-124.2364
+"North Platte, Nebraska",14362,14030,41.1263,-100.7641
+"Norwood, Massachusetts",235,252,42.1861,-71.1948
+"Nuiqsut, Alaska",2355,2452,70.21054663,-151.0007971
+"Nulato, Alaska",2408,2428,64.73059604,-158.0717282
+"Nunapitchuk, Alaska",2845,2703,60.90598523,-162.4405047
+"Oakland, California",5263628,5270180,37.7904,-122.2166
+"Ogden, Utah",465,147,41.2279,-111.9682
+"Ogdensburg, New York",5792,5758,44.7088,-75.4717
+"Oklahoma City, Oklahoma",2133873,2133509,35.4676,-97.5136
+"Old Harbor, Alaska",2196,2175,57.22225674,-153.2708624
+"Olga Bay, Alaska",123,124,57.161499,-154.2299957
+"Omaha, Nebraska",2464170,2470961,41.2627,-96.0529
+"Ontario, California",2971397,2969684,34.0393,-117.6064
+"Orlando, Florida",23313752,23456320,28.4773,-81.337
+"Ouzinkie, Alaska",1190,1198,57.9221,-152.5002
+"Owensboro, Kentucky",10818,10594,37.7575,-87.1172
+"Pack Creek, Alaska",312,318,57.8358,-134.8776
+"Paducah, Kentucky",13032,12857,37.0711,-88.644
+"Page, Arizona",12970,15241,36.92452314,-111.4511671
+"Palm Springs, California",1426980,1416142,33.8017,-116.5382
+"Panama City, Florida",816656,814939,30.1995,-85.6003
+"Parkersburg, West Virginia",4377,3432,39.2623,-81.542
+"Pasco/Kennewick/Richland, Washington",438068,434317,46.2506,-119.1305
+"Peach Springs, Arizona",9866,9813,35.571681,-113.2929567
+"Pedro Bay, Alaska",114,124,59.7897,-154.1061
+"Pelican, Alaska",1227,1209,57.955,-136.2281
+"Pellston, Michigan",22221,22371,45.57163297,-84.78619413
+"Pendleton, Oregon",5544,5177,45.6757,-118.8201
+"Pensacola, Florida",1365908,1359949,30.4413,-87.1911
+"Peoria, Illinois",315325,313627,40.752,-89.6154
+"Perryville, Alaska",179,212,37.85875824,-89.86974517
+"Petersburg, Alaska",24921,24479,56.8012,-132.9456
+"Philadelphia, Pennsylvania",11632521,11697444,40.0077,-75.1339
+"Phoenix, Arizona",23550647,23347743,33.5722,-112.0892
+"Pierre, South Dakota",15871,15748,44.3748,-100.3205
+"Pilot Point, Alaska",217,236,57.58051068,-157.5701403
+"Pilot Station, Alaska",3211,3064,61.9364,-162.899
+"Pittsburgh, Pennsylvania",4401283,4405741,40.4397,-79.9763
+"Platinum, Alaska",495,511,59.0113,-161.819
+"Plattsburgh, New York",72145,70349,44.6951,-73.4563
+"Plymouth, Massachusetts",124,114,41.8783,-70.6309
+"Pocatello, Idaho",17453,15967,42.8724,-112.4647
+"Point Hope, Alaska",4052,4078,68.34679275,-166.8015274
+"Point Lay, Alaska",1470,1470,69.7378,-163.0056
+"Pontiac, Michigan",419,1751,42.6493,-83.2878
+"Port Alexander, Alaska",123,108,56.24729258,-134.6479693
+"Port Alsworth, Alaska",207,220,60.20266586,-154.3179987
+"Port Graham, Alaska",1605,2291,59.348,-151.8311
+"Port Heiden, Alaska",443,444,56.9591,-158.631
+"Port Lions, Alaska",1213,1149,57.8683,-152.8461
+"Port Moller, Alaska",255,364,55.9838,-160.5679
+"Portland, Maine",1114432,1108402,43.6773,-70.2715
+"Portland, Oregon",7746872,7768676,45.5371,-122.65
+"Portsmouth, New Hampshire",50088,51434,43.058,-70.7826
+"Prescott, Arizona",24570,25883,34.5849,-112.4473
+"Presque Isle/Houlton, Maine",19254,19133,46.6868,-67.9874
+"Prospect Creek, Alaska",740,789,66.81396,-150.64385
+"Providence, Rhode Island",1731530,1733057,41.823,-71.4187
+"Provincetown, Massachusetts",7612,6809,42.0715,-70.2214
+"Provo, Utah",414974,403789,40.2457,-111.6457
+"Pueblo, Colorado",3358,3165,38.2701,-104.6114
+"Pullman, Washington",63835,62894,46.7336,-117.168
+"Punta Gorda, Florida",949709,950010,26.8941,-82.0513
+"Quincy, Illinois",4698,4753,39.9336,-91.3799
+"Quinhagak, Alaska",5132,5015,59.7556,-161.8453
+"Raleigh/Durham, North Carolina",6821141,6814881,35.8324,-78.6429
+"Rampart, Alaska",554,535,65.5077,-150.1416
+"Rapid City, South Dakota",345546,343841,44.0716,-103.2204
+"Red Dog, Alaska",15094,15192,68.0321,-162.8992
+"Redding, California",87657,87424,40.5698,-122.365
+"Reno, Nevada",2215786,2218853,39.5497,-119.8483
+"Renton, Washington",1838,1767,47.4784,-122.1918
+"Rhinelander, Wisconsin",20986,21396,45.62643524,-89.46174874
+"Richmond, Virginia",2398660,2389700,37.5295,-77.4756
+"Rifle, Colorado",407,423,39.5362,-107.7729
+"Riverside, California",2129,3460,33.9381,-117.3949
+"Riverton/Lander, Wyoming",15344,15188,43.0421,-108.4144
+"Roanoke, Virginia",345521,345128,37.2785,-79.9581
+"Roche Harbor, Washington",4132,4336,48.6087,-123.1587
+"Rochester, Minnesota",93373,92009,44.0154,-92.478
+"Rochester, New York",1323755,1321939,43.168,-77.6162
+"Rock Springs, Wyoming",16158,15798,41.5947,-109.2209
+"Rockford, Illinois",119699,118688,42.2596,-89.064
+"Rockland, Maine",6879,6881,44.06085657,-69.09379475
+"Rosario, Washington",1719,1820,48.6483,-122.8735
+"Roswell, New Mexico",44939,43674,33.373,-104.5294
+"Ruby, Alaska",1476,1479,64.73,-155.47
+"Russian Mission, Alaska",2198,2199,61.785,-161.3194
+"Rutland, Vermont",5179,5071,43.6092,-72.9783
+"Sacramento, California",6181510,6176039,38.5677,-121.4685
+"Saginaw/Bay City/Midland, Michigan",93530,89506,43.4199,-83.9501
+"Salem, Oregon",6989,6635,44.9233,-123.0244
+"Salina, Kansas",14991,14946,38.8136,-97.6143
+"Salisbury, Maryland",52126,51526,38.3756,-75.5865
+"Salt Lake City, Utah",12277617,12305117,40.7776,-111.9311
+"San Angelo, Texas",51855,50030,31.4424,-100.4504
+"San Antonio, Texas",5025407,4831375,29.4632,-98.5238
+"San Bernardino, California",27307,27620,34.1416,-117.2943
+"San Carlos, California",3546,3493,37.4982,-122.2677
+"San Diego, California",11739422,11478908,32.8313,-117.1222
+"San Francisco, California",17430396,17455908,37.7558,-122.4449
+"San Jose, California",5603226,5601880,37.3012,-121.848
+"San Luis Obispo, California",324671,319685,35.2669,-120.669
+"Sandpoint, Alaska",2576,2722,55.3157802,-160.5236804
+"Sanford, Florida",1384293,1396829,28.7891,-81.2757
+"Santa Ana, California",5524075,5583492,33.7367,-117.8819
+"Santa Barbara, California",638496,634477,34.4285,-119.7202
+"Santa Fe, New Mexico",140188,142280,35.6619,-105.9819
+"Santa Maria, California",14160,13838,34.9333,-120.4431
+"Santa Rosa, California",317911,317317,38.4458,-122.7067
+"Saranac Lake/Lake Placid, New York",4876,4748,44.28508894,-73.97441302
+"Sarasota/Bradenton, Florida",2127753,2121972,27.3387,-82.5432
+"Sault Ste. Marie, Michigan",22166,22178,46.4817,-84.3723
+"Savannah, Georgia",1907582,1907514,32.0286,-81.1821
+"Savoonga, Alaska",3310,3271,63.68969696,-170.4768041
+"Scammon Bay, Alaska",3593,3508,61.84566457,-165.5789988
+"Scottsbluff, Nebraska",12043,11655,41.8684,-103.6616
+"Scranton/Wilkes-Barre, Pennsylvania",173984,173204,41.4044,-75.6649
+"Seal Bay, Alaska",168,143,57.92,-152.5
+"Seattle, Washington",21851685,21914346,47.6211,-122.3244
+"Selawik, Alaska",3972,4014,66.6001,-160.0001
+"Seldovia, Alaska",3379,4010,59.441,-151.7039
+"Shageluk, Alaska",232,271,62.6929,-159.5698
+"Shaktoolik, Alaska",1627,1634,64.36816956,-161.2206632
+"Sheldon Point, Alaska",1015,1029,62.52022034,-164.8481021
+"Sheridan, Wyoming",26614,24628,44.7961,-106.9642
+"Shishmaref, Alaska",3478,3440,66.256,-166.059
+"Show Low, Arizona",3728,3519,34.2671,-110.0384
+"Shreveport, Louisiana",308766,302885,32.4653,-93.7955
+"Shungnak, Alaska",1563,1556,66.88612298,-157.152313
+"Sidney, Montana",8020,7690,47.71093212,-104.1845855
+"Silver City/Hurley, New Mexico",6973,6732,32.7783,-108.2699
+"Sioux City, Iowa",27086,26300,42.4959,-96.3901
+"Sioux Falls, South Dakota",655230,656718,43.5396,-96.7311
+"Sitka, Alaska",96214,96444,57.05308793,-135.3653068
+"Skagway, Alaska",4953,4881,59.46027381,-135.3169226
+"Sleetmute, Alaska",161,191,61.70217016,-157.1666956
+"Smyrna, Tennessee",1150,971,35.9687,-86.5264
+"South Bend, Indiana",411225,411160,41.6767,-86.2696
+"Spokane, Washington",2002254,2001516,47.6671,-117.433
+"Springfield, Illinois",50505,51247,39.7709,-89.654
+"Springfield, Missouri",632448,632908,37.1943,-93.2916
+"St. Cloud, Minnesota",19543,19315,45.534,-94.1718
+"St. George Island, Alaska",274,313,56.57726507,-169.6632203
+"St. George, Utah",136341,134870,37.0758,-113.5752
+"St. Louis, Missouri",7085819,7105980,38.6359,-90.2451
+"St. Mary's, Alaska",4933,5104,62.05649977,-163.3011655
+"St. Michael, Alaska",1840,1791,63.48583092,-162.116587
+"St. Paul, Alaska",1775,1885,57.167,-170.22
+"St. Petersburg, Florida",1237706,1240740,27.7931,-82.6652
+"State College, Pennsylvania",138785,135777,40.7909,-77.8567
+"Staunton, Virginia",7966,7627,38.1593,-79.0611
+"Stebbins, Alaska",2049,2072,63.5067,-162.2728
+"Stevens Village, Alaska",274,266,66.0061,-149.0983
+"Stillwater, Oklahoma",35295,33891,36.1317,-97.0742
+"Stockton, California",67539,66925,37.9765,-121.3109
+"Sun Valley/Hailey/Ketchum, Idaho",109234,108401,43.50772517,-114.3011443
+"Syracuse, New York",1412661,1406349,43.0407,-76.1437
+"Tacoma, Washington",233,131,47.2431,-122.4531
+"Takotna, Alaska",468,486,62.989,-156.0673
+"Tallahassee, Florida",416321,413469,30.4551,-84.2527
+"Tampa, Florida",10816388,10834672,27.9945,-82.4447
+"Tanana, Alaska",1703,1737,65.1744,-152.1094
+"Taos, New Mexico",7028,7206,36.4581,-105.671
+"Tatitlek, Alaska",549,588,60.87257714,-146.6904144
+"Teller, Alaska",1334,1274,65.24165189,-166.3355515
+"Telluride, Colorado",10687,10972,37.9538,-107.9071
+"Tenakee, Alaska",451,458,57.7793,-135.2183
+"Terre Haute, Indiana",375,365,39.466,-87.3751
+"Teterboro, New Jersey",6482,6270,40.85844557,-74.06156139
+"Texarkana, Arkansas",41949,40042,33.436,-93.9959
+"Thermal, California",127,112,33.6267,-116.1608
+"Thief River Falls, Minnesota",8143,7994,48.1108,-96.1778
+"Thorne Bay, Alaska",218,266,55.6872,-132.5361
+"Togiak, Alaska",2904,2858,59.0528,-160.3974
+"Tok, Alaska",486,330,63.32961923,-142.9544605
+"Toksook, Alaska",3200,3167,60.5382682,-165.0868657
+"Toledo, Ohio",70298,69315,41.6638,-83.5827
+"Topeka, Kansas",3226,4019,39.0346,-95.6955
+"Trading Bay, Alaska",251,283,60.8283,-151.7239
+"Traverse City, Michigan",347167,343654,44.7546,-85.6038
+"Trenton, New Jersey",326048,324851,40.2237,-74.7641
+"Truckee, California",1329,1366,39.3455,-120.1848
+"Tucson, Arizona",1920810,1749177,32.1541,-110.8787
+"Tulsa, Oklahoma",1570663,1576248,36.1283,-95.9042
+"Tuluksak, Alaska",2244,2112,61.0967,-160.9589
+"Tuntutuliak, Alaska",3163,3001,60.34999153,-162.6561882
+"Tununak, Alaska",1674,1654,60.57102946,-165.2472936
+"Tupelo, Mississippi",13445,12807,34.2692,-88.7318
+"Tuscaloosa, Alabama",3257,2502,33.2348,-87.5268
+"Twin Falls, Idaho",19852,18966,42.5645,-114.4613
+"Twin Hills, Alaska",577,598,59.07398828,-160.2752938
+"Tyler, Texas",50146,45465,32.3184,-95.3062
+"Tyonek, Alaska",1515,1574,61.07399585,-151.1333623
+"Unalakleet, Alaska",8312,8381,63.8734,-160.7983
+"Unalaska, Alaska",19353,18103,53.8991,-166.5437
+"Valdez, Alaska",4220,4264,61.13442802,-146.2442774
+"Valdosta, Georgia",42251,40745,30.8502,-83.2788
+"Valparaiso, Florida",1116717,1122263,30.50221536,-86.55006325
+"Van Nuys, California",2004,2351,34.2098,-118.489
+"Venetie, Alaska",1629,1680,67.00641253,-146.3778478
+"Vernal, Utah",13952,13858,40.4517,-109.5378
+"Vero Beach, Florida",42032,43063,27.6463,-80.393
+"Victoria, Texas",11292,10723,28.8287,-96.9849
+"Victorville, California",1155,1724,34.5277,-117.3536
+"Waco, Texas",51863,47604,31.5599,-97.1882
+"Wainwright, Alaska",3095,3191,70.63722502,-160.0001928
+"Wales, Alaska",1111,1096,65.6231733,-168.0950152
+"Walla Walla, Washington",26465,25523,46.0671,-118.3368
+"Washington, DC",19553196,19597943,38.85779787,-77.03827439
+"Waterbury, Connecticut",123,107,41.5582,-73.0361
+"Waterloo, Iowa",12814,12950,42.4918,-92.3522
+"Watertown, New York",21436,22815,43.9734,-75.9094
+"Watertown, South Dakota",15532,15549,44.9094,-97.1532
+"Wenatchee, Washington",27647,26800,47.436,-120.3295
+"West Palm Beach/Palm Beach, Florida",3784669,3767716,26.7469,-80.132
+"West Yellowstone, Montana",8735,8796,44.68701894,-111.1139579
+"Westerly, Rhode Island",12297,14867,41.3635,-71.7899
+"Westfield, Massachusetts",1247,1114,42.1382,-72.7561
+"Westhampton, New York",496,674,40.84516153,-72.64176113
+"Westsound, Washington",722,766,48.61593675,-122.949861
+"White Mountain, Alaska",1307,1306,64.68619989,-163.4109092
+"White Plains, New York",1152825,1155436,41.022,-73.7547
+"Whitmore, Arizona",7087,4339,36.25990385,-113.2313981
+"Wichita Falls, Texas",25073,20089,33.9072,-98.5291
+"Wichita, Kansas",843006,842445,37.6895,-97.3443
+"Williamsport, Pennsylvania",139,188,41.2399,-77.037
+"Williston, North Dakota",82247,80004,48.1814,-103.6364
+"Wilmington, Delaware",131244,128632,39.7415,-75.5416
+"Wilmington, North Carolina",655115,651282,34.2099,-77.8866
+"Winston-Salem, North Carolina",603,693,36.1029,-80.261
+"Wolf Point, Montana",3153,3072,48.0944,-105.5756
+"Worcester, Massachusetts",104677,104250,42.2705,-71.8079
+"Wrangell, Alaska",14323,14067,56.4843,-132.3701
+"Yakima, Washington",24023,23245,46.5923,-120.5496
+"Yakutat, Alaska",12105,11664,59.5033,-139.6602
+"Youngstown/Warren, Ohio",690,774,41.0993,-80.6463
+"Yuma, Arizona",90538,77630,32.5995,-114.5491
