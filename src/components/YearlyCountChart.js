@@ -5,7 +5,7 @@ import '../styles/YearlyCountChart.css';
 
 const YearlyCountChart = () => {
     useEffect(() => {
-        d3.csv('/data/Total_Passengers_Count_by_Year.csv')
+        d3.csv(`${process.env.PUBLIC_URL}/data/Total_Passengers_Count_by_Year.csv`)
             .then(data => {
                 const parsedData = data.map(d => ({
                     year: d.Year,

@@ -9,9 +9,9 @@ const FlightRoute = () => {
 
     useEffect(() => {
         Promise.all([
-            d3.json('/data/geojson.json'),
-            d3.csv('/data/Airport_Passenger_Count.csv'),
-            d3.csv('/data/Flight_Routes.csv')
+            d3.json(`${process.env.PUBLIC_URL}/data/geojson.json`),
+            d3.csv(`${process.env.PUBLIC_URL}/data/Airport_Passenger_Count.csv`),
+            d3.csv(`${process.env.PUBLIC_URL}/data/Flight_Routes.csv`)
         ])
             .then(([geoData, cityData, flightRoutes]) => {
                 processCityData(cityData);

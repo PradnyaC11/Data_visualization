@@ -50,7 +50,7 @@ const AviationSafetyTimeline = () => {
   const [timelineData, setTimelineData] = useState([]);
 
   useEffect(() => {
-    d3.csv(`/data/Safety_measures.csv`)
+    d3.csv(`${process.env.PUBLIC_URL}/data/Safety_measures.csv`)
       .then(rawData => {
         const parsedData = rawData.map((row) => ({
           Year: row.Year || "",

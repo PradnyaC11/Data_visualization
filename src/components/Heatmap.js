@@ -16,8 +16,8 @@ const stateAbbreviationToName = {
 const Heatmap = () => {
     useEffect(() => {
         Promise.all([
-            d3.json('/data/geojson.json'),
-            d3.csv('/data/State_Wise_Passenger_Count.csv')
+            d3.json(`${process.env.PUBLIC_URL}/data/geojson.json`),
+            d3.csv(`${process.env.PUBLIC_URL}/data/State_Wise_Passenger_Count.csv`)
         ]).then(([geoData, csvData]) => {
             csvData.forEach(d => {
                 d.State = stateAbbreviationToName[d.STATE] || d.State;

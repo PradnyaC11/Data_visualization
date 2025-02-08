@@ -9,7 +9,7 @@ const FlightDelayChart = () => {
     useEffect(() => {
         d3.select('#sunburst').selectAll('*').remove();
 
-        d3.csv(`/data/flight_delay_data.csv`)
+        d3.csv(`${process.env.PUBLIC_URL}/data/flight_delay_data.csv`)
             .then(rawData => {
                 var svg_label;
                 if (airport === undefined || airport === null || airport === '') {
