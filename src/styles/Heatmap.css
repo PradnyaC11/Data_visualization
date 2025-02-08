@@ -1,0 +1,28 @@
+#heatmap {
+    margin: auto;
+    width: 600px;
+    height: 500px;
+    background-color: transparent; 
+    border: none; 
+    flex:2
+}
+
+#tooltip-heatmap {
+    position: absolute;
+    background: white;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    visibility: hidden;
+    z-index: 10;
+}
+
+.heatmapText{
+    font-size: 20px;
+    flex: 1;
+    text-align: justify;
+    text-justify: inter-word;
+    float: left;
+}

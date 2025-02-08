@@ -1,0 +1,17 @@
+#sunburst {
+    margin: auto; 
+    width: 600px; 
+    height: 500px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: transparent;
+    position: relative;
+    padding-top: 0%;
+}
+
+.flightDelayText {
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
